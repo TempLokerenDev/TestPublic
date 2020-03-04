@@ -29,7 +29,8 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://projects.greenock.eu/nuget/debug/nuget": {},
-          "https://projects.greenock.eu/nuget/external/nuget": {}
+          "https://projects.greenock.eu/nuget/external/nuget": {},
+          "https://projects.greenock.eu/nuget/release/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
