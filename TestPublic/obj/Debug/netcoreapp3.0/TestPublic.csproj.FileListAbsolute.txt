@@ -1,0 +1,11 @@
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.exe
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.deps.json
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.runtimeconfig.json
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.runtimeconfig.dev.json
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.dll
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\bin\Debug\netcoreapp3.0\TestPublic.pdb
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\obj\Debug\netcoreapp3.0\TestPublic.csprojAssemblyReference.cache
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\obj\Debug\netcoreapp3.0\TestPublic.AssemblyInfoInputs.cache
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\obj\Debug\netcoreapp3.0\TestPublic.AssemblyInfo.cs
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\obj\Debug\netcoreapp3.0\TestPublic.dll
+C:\#Mega\@Projecten\@Develop\DotNet\_Tests\20200303 GitHub SubModule\TestPublic\TestPublic\obj\Debug\netcoreapp3.0\TestPublic.pdb

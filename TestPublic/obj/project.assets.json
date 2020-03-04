@@ -16,7 +16,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\#Mega\\@Projecten\\@Develop\\DotNet\\_Tests\\20200303 GitHub SubModule\\TestPublic\\TestPublic\\TestPublic.csproj",
-      "projectName": "TestPublic",
+      "projectName": "OctocatApp",
       "projectPath": "C:\\#Mega\\@Projecten\\@Develop\\DotNet\\_Tests\\20200303 GitHub SubModule\\TestPublic\\TestPublic\\TestPublic.csproj",
       "packagesPath": "C:\\Users\\gcenni\\.nuget\\packages\\",
       "outputPath": "C:\\#Mega\\@Projecten\\@Develop\\DotNet\\_Tests\\20200303 GitHub SubModule\\TestPublic\\TestPublic\\obj\\",
@@ -26,6 +26,8 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+        "C:\\#Mega\\@Projecten\\@Develop\\DotNet\\_Tests\\20200303 GitHub SubModule\\TestPublic\\TestPublic\\NuGet.Config",
+        "C:\\#Mega\\@Projecten\\@Develop\\DotNet\\_Tests\\20200303 GitHub SubModule\\NuGet.Config",
         "C:\\Users\\gcenni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,11 +36,7 @@
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://projects.greenock.eu/nuget/debug/nuget": {},
-        "https://projects.greenock.eu/nuget/external/nuget": {},
-        "https://projects.greenock.eu/nuget/release/nuget": {}
+        "https://nuget.pkg.github.com/TempLokerenDev/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
